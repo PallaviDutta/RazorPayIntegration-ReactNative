@@ -15,3 +15,6 @@
     
 4. Use the following link :
    https://github.com/razorpay/react-native-razorpay/blob/master/index.js
+
+5. If Required :
+https://github.com/razorpay/react-native-razorpay/wiki/Manual-Installation
